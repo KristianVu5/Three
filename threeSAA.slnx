@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="threeSAA.vcxproj" Id="3cdb4f6d-13c1-45e4-bb53-984df3e39444" />
+</Solution>
